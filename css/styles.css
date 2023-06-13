@@ -580,11 +580,11 @@ img {
   background-color: var(--white-background-color);
 }
 
-.portfolio-cards-item:hover .portfolio-covered-block {
+.portfolio-link:hover .portfolio-covered-block {
   transform: translateY(0%);
 }
 
-.portfolio-cards-item:focus .portfolio-covered-block {
+.portfolio-link:focus .portfolio-covered-block {
   transform: translateY(0%);
 }
 
